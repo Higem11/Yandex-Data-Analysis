@@ -7,7 +7,7 @@
 
 Или всегда можете вставить ссылку на .ipynb в <a href="https://nbviewer.jupyter.org">nbviewer</a> и смотреть всё без проблем.
 
-Модули, используемые в проектах:
+<b>Модули, используемые в проектах:</b><br/>
 Проект 2 - <b>pandas</b>, pymystem3</b>, ntlk</b><br/>
 Проект 3 - pandas, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>requests</b>, <b>geopy</b>, <b>API Yandex.Геокодер</b><br/>
 Проект 4 - pandas, numpy, matplotlib, <b>folium</b>, scipy, requests, API Yandex.Геокодер<br/>
