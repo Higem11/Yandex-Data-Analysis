@@ -8,9 +8,9 @@
 Или всегда можете вставить ссылку на .ipynb в <a href="https://nbviewer.jupyter.org">nbviewer</a> и смотреть всё без проблем.
 
 Модули, используемые в проектах:
-Проект 2 - <b>pandas</b>, pymystem3</b>, ntlk</b>
-Проект 3 - pandas, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>requests</b>, <b>geopy</b>, <b>API Yandex.Геокодер</b>
-Проект 4 - pandas, numpy, matplotlib, <b>folium</b>, scipy, requests, API Yandex.Геокодер
-Проект 5 - pandas, numpy, matplotlib, scipy, seaborn, <b>mplcursors</b>
-Проект 6 - pandas, numpy, matplotlib, scipy, <b>bokeh</b>
-Проект 6.1 - <b>selenium</b>, <b>BeautifulSoup</b>
+Проект 2 - <b>pandas</b>, pymystem3</b>, ntlk</b><br/>
+Проект 3 - pandas, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>requests</b>, <b>geopy</b>, <b>API Yandex.Геокодер</b><br/>
+Проект 4 - pandas, numpy, matplotlib, <b>folium</b>, scipy, requests, API Yandex.Геокодер<br/>
+Проект 5 - pandas, numpy, matplotlib, scipy, seaborn, <b>mplcursors</b><br/>
+Проект 6 - pandas, numpy, matplotlib, scipy, <b>bokeh</b><br/>
+Проект 6.1 - <b>selenium</b>, <b>BeautifulSoup</b><br/>
