@@ -1,10 +1,3 @@
-<html>
-  <head>
-    <title>Your Page Title</title>
-    <meta name="google-site-verification" content="j5sP_adyEJJPweYkgYeR5aa92Io8xT0zcchgj2Nvx9A" />
-  </head>
-<body>
-
 # Yandex-Data-Analysis
 Яндекс. Практикум "Аналитик данных"<br/>
 Ссылка на курс - https://praktikum.yandex.ru/data-analyst/
