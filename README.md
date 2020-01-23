@@ -5,7 +5,7 @@
 Посмотреть на <a href="https://drive.google.com/open?id=1O5y9ZmjfUjRng5B1kIkVnBmRQ1u4tbIF">Google Drive</a> (через Google Colab) 
 (целиком отрабатывающем HTML-теги (в том числе и оглавление))
 
-Или всегда можете вставить ссылку на .ipynb в <a href="https://nbviewer.jupyter.org">nbviewer</a> и смотреть всё без проблем.
+Или всегда можете вставить ссылку на .ipynb в <a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/">nbviewer</a> и смотреть всё без проблем.
 
 <b>Библиотеки, используемые в проектах:</b><br/>
 Проект 2 - <b>pandas</b>, <b>pymystem3</b>, <b>ntlk</b><br/>
