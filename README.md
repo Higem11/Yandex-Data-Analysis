@@ -14,4 +14,4 @@
 Проект 5 - pandas, numpy, matplotlib, scipy, seaborn, <b>mplcursors</b><br/>
 Проект 6 - pandas, numpy, matplotlib, scipy, <b>bokeh</b><br/>
 Проект 6.1 - <b>selenium</b>, <b>BeautifulSoup</b><br/>
-Проект 7 - pandas, numpy, matplotlib, seaborn, bokeh, <b>holoviews</b>
+Проект 7 - pandas, numpy, matplotlib, seaborn, bokeh, <b>pandas-bokeh</b>, <b>holoviews</b>
