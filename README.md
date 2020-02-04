@@ -14,5 +14,5 @@
 Проект 5 - <b>Анализ игровой индустрии</b> - pandas, numpy, matplotlib, scipy, seaborn, <b>mplcursors</b><br/>
 Проект 6 - <b>Аналитика в авиакомпании</b> - pandas, numpy, matplotlib, scipy, <b>bokeh</b><br/>
 Проект 6.1 - <b>selenium</b>, <b>BeautifulSoup</b><br/>
-Проект 7 - <b>Анализ бизнес-показателей</b> - pandas, numpy, matplotlib, seaborn, bokeh, <b>pandas-bokeh</b>, <b>holoviews</b>
-Проект 8 - <b>Анализ результатов AB-теста</b> - bokeh, holoviews, scipy
+Проект 7 - <b>Анализ бизнес-показателей</b> - pandas, numpy, matplotlib, seaborn, bokeh, <b>pandas-bokeh</b>, <b>holoviews</b><br/>
+Проект 8 - <b>Анализ результатов AB-теста</b> - bokeh, holoviews, scipy<br/>
