@@ -8,10 +8,11 @@
 (целиком отрабатывающем HTML-теги (в том числе и оглавление))
 
 <b>Библиотеки, используемые в проектах:</b><br/>
-Проект 2 - <b>pandas</b>, <b>pymystem3</b>, <b>ntlk</b><br/>
-Проект 3 - pandas, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>requests</b>, <b>geopy</b>, <b>API Yandex.Геокодер</b><br/>
-Проект 4 - pandas, numpy, matplotlib, <b>folium</b>, scipy, requests, API Yandex.Геокодер<br/>
-Проект 5 - pandas, numpy, matplotlib, scipy, seaborn, <b>mplcursors</b><br/>
-Проект 6 - pandas, numpy, matplotlib, scipy, <b>bokeh</b><br/>
+Проект 2 - <b>Исследование надежности заемщиков</b> - <b>pandas</b>, <b>pymystem3</b>, <b>ntlk</b><br/>
+Проект 3 - <b>Исследование объявлений о продаже квартир</b> - pandas, <b>numpy</b>, <b>matplotlib</b>, <b>seaborn</b>, <b>requests</b>, <b>geopy</b>, <b>API Yandex.Геокодер</b><br/>
+Проект 4 <b>Определение перспективного тарифа для телеком-компании</b>- pandas, numpy, matplotlib, <b>folium</b>, scipy, requests, API Yandex.Геокодер<br/>
+Проект 5 - <b>Анализ игровой индустрии</b> - pandas, numpy, matplotlib, scipy, seaborn, <b>mplcursors</b><br/>
+Проект 6 - <b>Аналитика в авиакомпании</b> - pandas, numpy, matplotlib, scipy, <b>bokeh</b><br/>
 Проект 6.1 - <b>selenium</b>, <b>BeautifulSoup</b><br/>
-Проект 7 - pandas, numpy, matplotlib, seaborn, bokeh, <b>pandas-bokeh</b>, <b>holoviews</b>
+Проект 7 - <b>Анализ бизнес-показателей</b> - pandas, numpy, matplotlib, seaborn, bokeh, <b>pandas-bokeh</b>, <b>holoviews</b>
+Проект 8 - <b>Анализ результатов AB-теста</b> - bokeh, holoviews, scipy
