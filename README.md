@@ -21,7 +21,7 @@
 
 Опишем положение дел более подробно:
 
-<table border="1" cellspacing="0" cellpadding="0">
+<table>
 <tr>
 <td><b>Номер проекта</b></td>
 <td><b>Название</b></td>
