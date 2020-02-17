@@ -28,38 +28,44 @@
 <td><b>Суть проекта</b></td>
 <td><b>Используемые библиотеки</b></td>
 <tr>
-<td><b>№ 1</b></td>
+<td><b>2</b></td>
 <td><b><font color="green">1.93</font></b></td>
 <td>7.0</td>
 <td>13.51</td>
 <tr>
-<td> <b>№ 2</b></td>
+<td> <b>3</b></td>
 <td><b><font color="red">0.95</font></b></td>
 <td>12.53</td>
 <td>11.9</td>
 <tr>
-<td> <b>№ 3</b></td>
+<td> <b>4</b></td>
 <td><b><font color="red">0.43</font></b></td>
 <td>14.29</td>
 <td>6.14</td>
 <tr>
-<td> <b>№ 4</b></td>
+<td> <b>5</b></td>
 <td><b><font color="red">0.91</font></b></td>
 <td>7.29</td>
 <td>6.63</td>
 <tr>
-<td> <b>№ 5</b></td>
+<td> <b>6</b></td>
 <td><b><font color="green">1.51</font></b></td>
 <td>6.96</td>
 <td>10.51</td>
 <tr>
-<td> <b>№ 9</b></td>
+<td> <b>6.1</b></td>
 <td><b><font color="green">1.27</font></b></td>
 <td>4.74</td>
 <td>6.02</td>
 <tr>
-<td> <b>№ 10</b></td>
+<td> <b>7</b></td>
 <td><b><font color="red">0.74</font></b></td>
 <td>5.07</td>
 <td>3.75</td>
+<tr>
+<td> <b>8</b></td>
+<td><b><font color="green">1.51</font></b></td>
+<td>6.96</td>
+<td>10.51</td>
+<tr>
 </table>
