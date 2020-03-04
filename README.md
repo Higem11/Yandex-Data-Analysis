@@ -32,7 +32,7 @@
 <td>pandas, numpy, matplotlib, <b>folium</b>, scipy, requests, API Yandex.Геокодер</td>
 <tr>
 <td> <b>5</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/5%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201%20-%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B8.ipynb" target="_blank"><b>Анализ игровой индустрии</b></td>
+<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/5%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201%20-%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D0%B7%20%D0%B8%D0%B3%D1%80%D0%BE%D0%B2%D0%BE%D0%B9%20%D0%B8%D0%BD%D0%B4%D1%83%D1%81%D1%82%D1%80%D0%B8%D0%B8.ipynb" target="_blank"><b>Сборный проект-1. Анализ игровой индустрии</b></td>
 <td>Интернет-магазин компьютерных игр и игр для консолей. Необходимо выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.</td>
 <td>pandas, numpy, matplotlib, scipy, seaborn, <b>mplcursors</b></td>
 <tr>
@@ -53,7 +53,7 @@
 <td>pandas, bokeh, holoviews, scipy</td>
 <tr>
 <td> <b>10</b></td>
-<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/10%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-2%20%D0%90%D0%91-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.ipynb" target="_blank"><b>Сборный проект-2. ААВ-тесты.</b></a></td>
+<td><a href="https://nbviewer.jupyter.org/github/Higem11/Yandex-Data-Analysis/blob/master/10%20%D0%A1%D0%B1%D0%BE%D1%80%D0%BD%D1%8B%D0%B9%20%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%82-2%20%D0%90%D0%91-%D1%82%D0%B5%D1%81%D1%82%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5.ipynb" target="_blank"><b>Сборный проект-2. ААВ-тесты</b></a></td>
 <td>ААВ-тестирование, множественное тестирование и применение поправок к полученным результатам.</td>
 <td>pandas, bokeh, plotly, statsmodels</td>
 </table>
